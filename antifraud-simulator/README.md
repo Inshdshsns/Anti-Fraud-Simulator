@@ -1,4 +1,4 @@
-# 🛡️ Anti-Fraud Simulator
+# Anti-Fraud Simulator
 
 Anti-fraud system simulator for learning and demonstrating fraud detection principles.
 
